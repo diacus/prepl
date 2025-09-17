@@ -1,0 +1,8 @@
+Package: prepl
+Version: 0.1.0
+Section: utilities
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Diacus Mágnuz <diacus.magnuz@gmail.com>
+Description: Perl REPL
